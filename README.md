@@ -1,5 +1,2 @@
 # data-science-projects
-Data Science Projects
-
-- Machine Learning 
-- Data Visualization
+Python Machine Learning Data Visualization Data Science projects by Niccolo Lampa
