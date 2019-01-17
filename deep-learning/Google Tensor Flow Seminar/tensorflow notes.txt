@@ -1,0 +1,45 @@
+deep learn . js
+
+tensorboard - for visualization
+saver - checkpoints
+
+aiexperiments.withgoogle.com
+
+low level API - Researchers
+Hight level API - Developers
+
+
+Constnat 
+	node1= tf.constan
+	
+
+	
+Placeholder
+	wlaang laman
+	
+	a= tf.placeholder(gt.float32)
+	
+Variable - can change the value of data
+
+	 w= tf.Variable([.3],tf.float32)
+	 
+
+Updating Variable
+	 tf.assign
+	 
+
+tf.add(var1, var2)
+tf.substract(var1, var2)
+
+
+Session open - run computaional graph within a session. 
+
+	sess= tf.Session
+	
+Initializing all variables - you must explicitl call a special operation as follows:
+	init. tf.global_variables_initilizers()
+	sess.run(init)
+	
+	*automatic for constant and placeholder 
+	 
+	
